@@ -2,24 +2,26 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
+
 }
 body{
     font-family: 'Nova Flat';font-size: 22px;
-    background-image: url(kepek/hatter.jfif);
+    background-image: url(kepek/_13c1f839-af03-445b-bfb4-5de4d9a1190d.jfif);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    
 }
 main{
-    width: 90%;
-    max-width: 900px;
+    width: 95%;
+    max-width: 1200px;
     margin: auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     padding: 10px;
     color: white;
-    background-color: rgb(133, 207, 133);
+    background-color: rgba(21, 20, 112, 0.575);
 }
 header h1{
     text-align: center;
