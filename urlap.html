@@ -5,7 +5,7 @@
     <meta name="keywords" content="történet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="stilus.css">
-    <link href='https://fonts.googleapis.com/css?family=Nova Flat' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet'>
     <title>Gyula,Patrik, Gábor</title>
 </head>
 <body>
@@ -23,12 +23,17 @@
             <form action="#">
                 <fieldset>
                     <legend>Mond el a te történeted</legend>
-                    <label for="name">Neved:</label><br>
+                    <label for="name">Neved:</label>
                     <input type="text" id="name" name="name" placeholder="Ide írd a neved">
                     <br>
-                    <label for="datum">Születési dátum:</label>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="Ide írd az email címed">
                     <br>
+                    <label for="datum">Születési dátum:</label>
                     <input type="date" name="datum" id="datum">
+                    <br>
+                    <label for="tname">A sztori neve:</label>
+                    <input type="text" id="tname" name="tname" placeholder="Sztori neve">
                     <br>
                     <label for="mufaj">Műfaja:</label>
                     <select name="mufaj" id="mufaj">
@@ -44,6 +49,8 @@
                     <br>
                     <label for="szoveg">A történet:</label>
                     <textarea name="szoveg" id="szoveg" cols="100" rows="10"></textarea>
+                    <br>
+                    <input type="submit" value="Küldés">
                 </fieldset>
             </form>
         </article>

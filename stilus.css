@@ -5,7 +5,7 @@
 
 }
 body{
-    font-family: 'Nova Flat';font-size: 22px;
+    font-family: 'Alegreya';font-size: 22px;
     background-image: url(kepek/_13c1f839-af03-445b-bfb4-5de4d9a1190d.jfif);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -82,4 +82,18 @@ form{
 }
 fieldset{
     padding: 10px;
+}
+input{
+    padding: 5px;
+}
+select{
+    padding: 5px;
+}
+label{
+    width: 200px;
+    float: left;
+}
+legend{
+    border: 1px white solid;
+    padding: 5px;
 }
