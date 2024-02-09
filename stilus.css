@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Nova Flat';font-size: 22px;
+    background-image: url(kepek/hatter.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+main{
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+    color: white;
+    background-color: rgb(133, 207, 133);
+}
+header h1{
+    text-align: center;
+}
+header{
+    flex: 0 0 100%;
+    padding: 20px;
+}
+nav{
+    flex: 0 0 30%;
+    padding: 10px
+}
+article{
+    flex: 0 0 70%;
+}
+nav ul{
+    display: flex;
+    flex-direction: column;
+}
+nav li{
+    flex: 0 0 33,3%;
+    list-style: none;
+    padding: 5px;
+    border: 1px black solid;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+article img{
+    width: 100%;
+}
+article{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 3px;
+}
+article div{
+    flex: 0 0 33%;
+}
