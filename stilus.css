@@ -73,3 +73,13 @@ form{
 fieldset{
     padding: 10px;
 }
+footer{
+    flex: 0 0 100%;
+    text-align: center;
+}
+form{
+    width: 100%;
+}
+fieldset{
+    padding: 10px;
+}
