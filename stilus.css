@@ -63,3 +63,13 @@ article{
 article div{
     flex: 0 0 33%;
 }
+footer{
+    flex: 0 0 100%;
+    text-align: center;
+}
+form{
+    width: 100%;
+}
+fieldset{
+    padding: 10px;
+}
