@@ -11,13 +11,13 @@ Sir Richard: (megfontoltan) Aldric, vigyázz magadra. Az erdő sötét és csels
 
 Sir Aldric: (lelkesen) Ne félj, Richard! Mi ketten együtt legyőzhetjük a sötétséget és hozzájuthatunk a varázsgombákhoz!
 
-A két katona a barlang mélyére hatol, ahol az elfeledett ereklye található.
+
 
 Sir Richard: (aggódva) Itt valami nincs rendben, Aldric. Azoth talán nem olyan, amilyennek látszik.
 
 Sir Aldric: (hitetlenül) De a varázsgombák... és a legszebb tájak! Ez minden álmom!
 
-Miután megszerzik az elfeledett ereklyét, visszatérnek Azothhoz, aki elárulja őket.
+--------------------------------------------------------------------------------------------------
 
 Azoth: (kötözködve) Ah, kedves katonáim, üdvözöllek vissza! Az elfeledett ereklye most már az enyém.
 
